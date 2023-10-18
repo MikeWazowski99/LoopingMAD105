@@ -1,6 +1,5 @@
 fun main(args: Array<String>) {
 
-
     val person1 = classEmployee(1, "Barney", "Dino", 1,
         "815-555-1234", "815-555-1111", "815-555-2222")
     val person2 = classEmployee(2, "Fred", "Krueger", 2,
